@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/colet0227/colet0227/assets/10394057/944ff21e-e14f-4143-b045-8f46e23ec014)
+![github-header-image](https://github.com/colet0227/colet0227/assets/10394057/b37bceb6-f61b-4a2b-9ced-1a2aae8a0407)
+
 ## loading
 My name is Cole Thompson (@colet0227). I am a second-year student pursuing a computer science major through the Donald Bren School of Information and Computer Sciences at University of Califronia, Irvine. I am a Truckee, CA native and am excited to continue my journey and experience with coding!
 
