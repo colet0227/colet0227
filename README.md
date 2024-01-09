@@ -3,5 +3,7 @@
 ## Hi, I'm Cole!
 I am a third-year student pursuing a computer science major through the Donald Bren School of Information and Computer Sciences at University of Califronia, Irvine. I am a Truckee, CA native and am excited to continue my journey and experience with coding!
 
+Other Account: coleics
+
 <a href="https://www.linkedin.com/in/cole-thompson-991682251/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/></a>
 <a href="mailto:colet0227@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="74px"/></a>
